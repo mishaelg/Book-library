@@ -1,0 +1,5 @@
+A To Z $$$ 1
+B To Z $$$ 2
+C To Z $$$ 2
+D To Z $$$ 20
+M To Z $$$ 10

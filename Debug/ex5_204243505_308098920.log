@@ -1,0 +1,29 @@
+﻿  ex5_204243505_308098920.c
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(159): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(160): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(176): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(190): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(193): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(209): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(212): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(227): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(237): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(257): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\mishael\desktop\studys\c\hw5\ex5_204243505_308098920\ex5_204243505_308098920\ex5_204243505_308098920.c(260): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  ex5_204243505_308098920.vcxproj -> C:\Users\mishael\Desktop\studys\c\hw5\ex5_204243505_308098920\Debug\ex5_204243505_308098920.exe
+  ex5_204243505_308098920.vcxproj -> C:\Users\mishael\Desktop\studys\c\hw5\ex5_204243505_308098920\Debug\ex5_204243505_308098920.pdb (Full PDB)
